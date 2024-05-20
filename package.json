@@ -1,0 +1,14 @@
+{
+  "name": "xotoscript-refactor-translate",
+  "version":"0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node --project tsconfig.json index.ts"
+  },
+  
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
